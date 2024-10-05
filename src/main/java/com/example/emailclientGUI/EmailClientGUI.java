@@ -133,8 +133,7 @@ public class EmailClientGUI extends JFrame {
             properties.put("mail.imap.connectiontimeout", "10000"); // 10 seconds timeout
             properties.put("mail.imap.timeout", "10000"); // 10 seconds timeout
 
-            String username = "srithika20089@gmail.com"; // Replace with your actual email
-            String password = "itru exkw lsiu yzlb"; // Use the app password generated
+    
 
             boolean retry = true;
             int retryCount = 0;
